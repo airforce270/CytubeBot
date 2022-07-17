@@ -17,6 +17,7 @@
     "async": "3.2.3",
     "axios": "0.26.1",
     "cleverbot-node": "0.3.11",
+    "deepai": "^1.0.21",
     "express": "4.17.3",
     "forever-monitor": "3.0.3",
     "humanize-duration": "3.27.1",
